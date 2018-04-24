@@ -1,0 +1,20 @@
+Python:
+1. częste są pytania o sortowanie
+1. styl kodu: jakich trzymasz się konwencji?
+1. inne zwyczajnoprogramistyczne pierdoły
+
+Django:
+1. co ma w sobie request?
+1. różnice pomiędzy widokami funkcyjnymi a klasowymi, kiedy jakie stosujesz?
+1. cachowanie
+1. testowanie aplikacji
+1. jak byś rozwiązał deployowanie aplikacji?
+1. jak zarządzasz zależnościami?
+1. aplikacja z wieloma settingsami - jak sobie z tym poradzić?
+1. struktura django - znaczy że templatka, widok, model, context processory, middlewary...
+
+Ogólne:
+1. VCS
+1. Twoje środowisko pracy
+1. inne technologie: html, css, js, sql, redis, puppet
+1. znajomość linuxów
